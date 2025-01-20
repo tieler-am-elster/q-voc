@@ -5,3 +5,4 @@ Q-VOC (say: cu vowk) is a free and open-source flashcard/vocabulary card managin
 - Quizes, repeats and refreshes
 - Pronounciation learning through hearing and repeating
 - CSV imports
+The ultimate goal is to create a free and open-source full-featured and competitive language learning app. There are **no plans** on creating a mobile version, so that the app would remain ad-free, and open-source.
